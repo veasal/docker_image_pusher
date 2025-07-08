@@ -1,4 +1,7 @@
-neo4j
+docker.getcollate.io/openmetadata/db:1.8.1
+docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+docker.getcollate.io/openmetadata/server:1.8.1
+docker.getcollate.io/openmetadata/ingestion:1.8.1
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
