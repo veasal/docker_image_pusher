@@ -1,198 +1,198 @@
-docker.io/library/busybox sha256:7b3ccabffc97de872a30dfd234fd972a66d247c8cfc69b0550f276481852627c
-docker.io/library/registry:2 sha256:ce14a6258f37702ff3cd92232a6f5b81ace542d9f1631966999e9f7c1ee6ddba
-docker.io/rancher/backup-restore-operator:v1.2.1 sha256:b19af54acc2ca5235368f1fa3d92e0f086f5bc76c44a361bae6ade1d42b1e384
-docker.io/rancher/cis-operator:v1.0.7 sha256:82345eb8b52a226a94ca3956f92c32886e987ec6344de69ce3494e82def9dc45
-docker.io/rancher/configmap-reload:v0.3.0-rancher4 
-docker.io/rancher/coredns-coredns:1.6.2 
-docker.io/rancher/coredns-coredns:1.6.9 sha256:e70c936deab8efed89db66f04847fec137dbb81d5b456e8068b6e71cb770f6c0
-docker.io/rancher/coredns-coredns:1.8.3 sha256:9d4f5d7968c432fbd4123f397a2d6ab666fd63d13d510d9728d717c3e002dc72
-docker.io/rancher/coreos-kube-state-metrics:v1.9.7 sha256:2f82f0da199c60a7699c43c63a295c44e673242de0b7ee1b17c2d5a23bec34cb
-docker.io/rancher/coreos-prometheus-config-reloader:v0.39.0 sha256:1d10032de6e1951532229fbdb71653cdbb9cd6741240537b72d54fd639184f7d
-docker.io/rancher/coreos-prometheus-operator:v0.39.0 sha256:1ae93746fc9b3077f53a85b15a606d953c6167c7d89c1cf0b2d8e1bbe5383786
-docker.io/rancher/eks-operator:v1.0.10 sha256:b83593f59b5e1e2da1b123dc3a94e50a9352ee392a84c8753f114e5745d263b8
-docker.io/rancher/externalip-webhook:v0.1.6 sha256:3668eccb61f309d4fa523bcd742e6889762ee653f1c267928c01325687c63e04
-docker.io/rancher/flannel-cni:v0.3.0-rancher6 sha256:23d921611903f6332cef666033924e0d92370548637d497549fe1121eb370feb
-docker.io/rancher/fleet-agent:v0.3.10-security1 sha256:43f59945877aa711e3e66b8c071b73c6ff056a23807819d817f4a413bcb03851
-docker.io/rancher/fleet:v0.3.10-security1 sha256:5adc1352fe3d869464cf15c4cb0f200f4d685d70bc2ccffda8e10c42698db99e
-docker.io/rancher/fluentd:v0.1.30 
-docker.io/rancher/gitjob:v0.1.26-security1 sha256:70a8b5a2bf61058b5c04af6635d1754be9a39e3caa76b156d8a3802411a27135
-docker.io/rancher/gke-operator:v1.1.1 sha256:0b8ccdf9844bab3b48c36ecd82b883b2d93c107d2f816648b7c472c602d71ff5
-docker.io/rancher/grafana-grafana:6.7.4 sha256:43340812d14aa3e60810b85ee9caaf0e423e7aad01000b704cd8ddfb2bb1248e
-docker.io/rancher/grafana-grafana:7.1.5 sha256:c9eb2f9c3f2e9c2275df4fa47fb0a2e11c1938ad3846e8ca65fde63d93e242d4
-docker.io/rancher/hyperkube:v1.17.17-rancher2 sha256:5839dab5c2258baaaceeada811dca522bdc5a81533d4bbfbe3fd0567fa65c998
-docker.io/rancher/hyperkube:v1.18.20-rancher1 sha256:c04dbead016a8e2c7548b53783685660ef1c344b35008f473dc9ae7e12523b73
-docker.io/rancher/hyperkube:v1.19.16-rancher2 sha256:400df578e8dbe022acfc0de9e2daf92c1f52f898a30300ef374fba174bc3a2fd
-docker.io/rancher/hyperkube:v1.20.15-rancher2 sha256:19193ccca2db269d98a8a43c97131bfac6b3486762ea967aefb8073ef4186e8f
-docker.io/rancher/istio-1.5-migration:0.1.1 sha256:96d3153521f7eae9126cc986a4ad14cd12285948b9b1869240201bd77982d2c1
-docker.io/rancher/istio-citadel:1.5.9 sha256:b852bf36cc695e95159964296257590eb5d33dedf4e2910ea6da796bfc9549a3
-docker.io/rancher/istio-coredns-plugin:0.2-istio-1.1 
-docker.io/rancher/istio-galley:1.5.9 sha256:2ff17ebb0a999ca99b58d52b5c28b6877d37e654530e316906844cd97941df46
-docker.io/rancher/istio-installer:1.11.7-rancher1 sha256:d6ea3f3b16a8a77c8b16c1bdfda60ed9b9232efe2b03ce014f3e4502fe398596
-docker.io/rancher/istio-kubectl:1.4.6 sha256:dd00f55adba7d7e300ecfaf89e8fe5cf529c608a6d3116bb9530fd2b1b6fa8f4
-docker.io/rancher/istio-kubectl:1.5.10 
-docker.io/rancher/istio-kubectl:1.5.9 sha256:7ea62c48bb5f744dddec4b441d6f83b9ad9165bd946601082e7e4c0c62ae7e14
-docker.io/rancher/istio-mixer:1.5.9 sha256:d57062af7f12c1444392d2d564c1e50278dd2180b7a00b919ec7e137796a11a8
-docker.io/rancher/istio-node-agent-k8s:1.5.9 sha256:17aef0d1ec75a36dac579a5668f17e546d81c96b378afc13d0d62f64dcd399c8
-docker.io/rancher/istio-pilot:1.5.9 sha256:fc5b8e6aa30c4e6a5f867dc18cde71e11324b284304ce078515363e148d9c30a
-docker.io/rancher/istio-proxyv2:1.5.9 sha256:bd980858092ec5ecef959752548c5969c65ef762fe734edc2f57f9cfc62715a2
-docker.io/rancher/istio-sidecar_injector:1.5.9 sha256:2dc0c28885b2b6780fff0b751cd635fef120f35203859c53896b4adc577b375f
-docker.io/rancher/jaegertracing-all-in-one:1.14 sha256:021aefafecbb5559078206996f1f4e8fc5907debab047f4fcc5c837689a66cfa
-docker.io/rancher/jetstack-cert-manager-controller:v0.8.1 sha256:52cfc0e541cd945c6a4727ad240ae1de9ef62c2172bccf827ba1c0e7f61ac792
-docker.io/rancher/jimmidyson-configmap-reload:v0.3.0 sha256:2aff75f0dfab984de1589cb8adb55f91df54b14b659a1305f32c56a80a9ea202
-docker.io/rancher/k3s-upgrade:v1.17.17-k3s1 sha256:3d33e14087c0317816d8bcb32cd4dda1247c437c5ea778d227a618d349186f96
-docker.io/rancher/k3s-upgrade:v1.18.20-k3s1 sha256:9208ff4360f4cadbd327f644c61826eff03a33f9c25373231d315a02005bf2a0
-docker.io/rancher/k3s-upgrade:v1.19.16-k3s1 sha256:3ec0c527b6426f91424243b02f5e30cfc458caa2c82b9ce2665e1f424e2e882f
-docker.io/rancher/k3s-upgrade:v1.20.15-k3s1 sha256:896d4edc6b8eb0bd5767c0a5961d4587ff4aa265abcc1891fc1a2512ccdd7c20
-docker.io/rancher/kiali-kiali:v1.17 sha256:37e893ec667f9fb2bd7f0c0a3d527ead345bc66fc6c1c64548397cb0b4777bb9
-docker.io/rancher/klipper-helm:v0.2.3 sha256:a7c8cc34edc89609c1b11c1ab212962d437414e5542a8fa059df2936aaa1c06f
-docker.io/rancher/klipper-helm:v0.4.3 sha256:b319bce4802b8e42d46e251c7f9911011a16b4395a84fa58f1cf4c788df17139
-docker.io/rancher/klipper-helm:v0.6.6-build20211022 sha256:961459b8641aa77dae39c96ba8efba88805a8949dcaafa131d1aecc1510128bf
-docker.io/rancher/klipper-lb:v0.1.2 sha256:2fb97818f5d64096d635bc72501a6cb2c8b88d5d16bc031cf71b5b6460925e4a
-docker.io/rancher/klipper-lb:v0.2.0 sha256:5ea5f7904c404085ff24541a0e7a2267637af4bcf30fae9b747d871bfcd8a6f7
-docker.io/rancher/kube-api-auth:v0.1.4 sha256:39d212b2a8b657fa35e9c1bb65e11974b099c9e0df110e88d7d144f6f46c82fa
-docker.io/rancher/kubectl:v1.18.0 sha256:468e924fb0e33e8e9700944ecca4ad89fa8c5b080b55936c44974bb880470ae0
-docker.io/rancher/kubectl:v1.20.2 sha256:962ac9d5ffef082196730eea8fcd1657b5d21feeec36e5d398a092154e1fa48f
-docker.io/rancher/kubectl:v1.21.5 sha256:6ec63bbc58d40e637949b4f6f0d907cae4d936f0448364ae46284c929bda99dc
-docker.io/rancher/kubernetes-external-dns:v0.7.3 
-docker.io/rancher/library-busybox:1.32.1 sha256:6216b36ad2a781614fa5f2850b70e318c7a4c4384730072a9a35fa946acb14e8
-docker.io/rancher/library-traefik:1.7.19 sha256:3ba3ed48c4632f2b02671923950b30b5b7f1b556e559ce15446d1f5d648a037d
-docker.io/rancher/local-path-provisioner:v0.0.11 sha256:0d60b97b101e432606035ab955c623604493e8956484af1cfa207753329bdf81
-docker.io/rancher/local-path-provisioner:v0.0.14 sha256:40cb8c984c1759f1860eee088035040f47051c959a6d07cdb126e132c6f43b45
-docker.io/rancher/local-path-provisioner:v0.0.19 sha256:9666b1635fec95d4e2251661e135c90678b8f45fd0f8324c55db99c80e2a958c
-docker.io/rancher/log-aggregator:v0.1.8 sha256:82cd0eba3d5639efe300472f3a67bac5b3ed3ae6d419a40ace42d6eead50b755
-docker.io/rancher/metrics-server:v0.3.6 sha256:b85628b103169d7db52a32a48b46d8942accb7bde3709c0a4888a23d035f9f1e
-docker.io/rancher/mirrored-banzaicloud-fluentd:v1.14.6-alpine-5 sha256:ffecf5a893407e5f8d17cadd517aee3ecd2015e0c953c8c98fce8cf8a32436d4
-docker.io/rancher/mirrored-banzaicloud-logging-operator:3.17.7 sha256:83cd538d298bc337f029a6e0a9be04b383172d141d8ed356b9669acf70b1cc88
-docker.io/rancher/mirrored-calico-cni:v3.13.4 
-docker.io/rancher/mirrored-calico-cni:v3.16.5 
-docker.io/rancher/mirrored-calico-cni:v3.17.2 
-docker.io/rancher/mirrored-calico-ctl:v3.13.4 
-docker.io/rancher/mirrored-calico-ctl:v3.16.5 
-docker.io/rancher/mirrored-calico-ctl:v3.17.2 
-docker.io/rancher/mirrored-calico-kube-controllers:v3.13.4 
-docker.io/rancher/mirrored-calico-kube-controllers:v3.16.5 
-docker.io/rancher/mirrored-calico-kube-controllers:v3.17.2 
-docker.io/rancher/mirrored-calico-node:v3.13.4 
-docker.io/rancher/mirrored-calico-node:v3.16.5 
-docker.io/rancher/mirrored-calico-node:v3.17.2 
-docker.io/rancher/mirrored-calico-pod2daemon-flexvol:v3.13.4 
-docker.io/rancher/mirrored-calico-pod2daemon-flexvol:v3.16.5 
-docker.io/rancher/mirrored-calico-pod2daemon-flexvol:v3.17.2 
-docker.io/rancher/mirrored-cloud-provider-vsphere-cpi-release-manager:v1.18.0 
-docker.io/rancher/mirrored-cloud-provider-vsphere-cpi-release-manager:v1.19.0 
-docker.io/rancher/mirrored-cloud-provider-vsphere-cpi-release-manager:v1.20.0 
-docker.io/rancher/mirrored-cloud-provider-vsphere-cpi-release-manager:v1.21.0 
-docker.io/rancher/mirrored-cloud-provider-vsphere-csi-release-driver:v2.3.0 
-docker.io/rancher/mirrored-cloud-provider-vsphere-csi-release-syncer:v2.3.0 
-docker.io/rancher/mirrored-cluster-proportional-autoscaler:1.7.1 sha256:8da149dd119d071073b128b3dc0a8637cf5ab948fabf24cb8fd8d33fca03aa15
-docker.io/rancher/mirrored-cluster-proportional-autoscaler:1.8.1 sha256:adc5fedbb6e941614785c7f1bcf0a7da3e0ef33b3fd39a6b8ea948f6e52d42ca
-docker.io/rancher/mirrored-coredns-coredns:1.6.5 sha256:58dd509144799c13e1b69bf52ab3c3891d1430cc911d1813b06e9e2c4c93b633
-docker.io/rancher/mirrored-coredns-coredns:1.6.9 sha256:56dd2af81f2ae4ca4eefa1e503d87a0d9245b781e86dae9add42a2f4892fd8f8
-docker.io/rancher/mirrored-coredns-coredns:1.7.0 sha256:2b259861f87f2b52a1d449dc7415e197ec8939b948198d83d0fcdbcd74680166
-docker.io/rancher/mirrored-coredns-coredns:1.8.0 sha256:ec24569c5fe0b63275ae199d55aa48d83bd291c5194037e31c4fe4070ac9e531
-docker.io/rancher/mirrored-coreos-etcd:v3.4.15-rancher1 sha256:1db90a4487794a6a4d979b56412b713c5e229cb770c28a4f118055a8b27f51f6
-docker.io/rancher/mirrored-coreos-etcd:v3.4.3-rancher1 sha256:c9773368e3864e2bd666e5bb329a8cd2c7a9022ff6345057eb985069785f65a5
-docker.io/rancher/mirrored-coreos-flannel:v0.15.1 sha256:162f82315dbe939e457697281a8ef04d469edd52bb384a1405f78468ed6fe323
-docker.io/rancher/mirrored-curlimages-curl:7.77.0 sha256:1669b615dc144ad94c53ee73b76a545236dfde3bcd85c8dc2a23dfdd054b0d25
-docker.io/rancher/mirrored-directxman12-k8s-prometheus-adapter:v0.8.4 sha256:c46d807d011cf127af2c298121c2d29ff8ce6f6b71061f69b9cca1731a9e3fde
-docker.io/rancher/mirrored-fluent-fluent-bit:1.9.3 sha256:899fc9d4e363b059d4e48fb0b6184bd5312363c4baa406e911baf3d8e935090a
-docker.io/rancher/mirrored-fluent-fluent-bit:1.9.3-debug sha256:af6af7a0f3b29518b9167d36c28e58fddf34adbf848abdd45d3476b7e77d17e9
-docker.io/rancher/mirrored-grafana-grafana-image-renderer:3.0.1 
-docker.io/rancher/mirrored-grafana-grafana:7.5.8 sha256:694b2d4558efbe41ee1605ab842a36c04c004f835e64f40f3895a3e696b294aa
-docker.io/rancher/mirrored-idealista-prom2teams:3.2.1 
-docker.io/rancher/mirrored-idealista-prom2teams:3.2.3 
-docker.io/rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.1.1 sha256:28197903d736aae74cbb1fa9e0ccbd11129395f0f65ad94281cc7fdfec020b25
-docker.io/rancher/mirrored-istio-install-cni:1.11.7 
-docker.io/rancher/mirrored-istio-pilot:1.11.7 
-docker.io/rancher/mirrored-istio-proxyv2:1.11.7 
-docker.io/rancher/mirrored-jaegertracing-all-in-one:1.31.0 sha256:53a91733d6f959020b6c43cb59e6f1d4d9244464edfe8b909e4dd85c265c2c59
-docker.io/rancher/mirrored-jenkins-jnlp-slave:3.35-4 
-docker.io/rancher/mirrored-jettech-kube-webhook-certgen:v1.5.2 sha256:3448a3d8758aa2f215f6474e771d2c36ee852798f53853658bc81894227d228f
-docker.io/rancher/mirrored-jimmidyson-configmap-reload:v0.4.0 sha256:c4837d931a0678a599c8e76f88dd52e11cadb3f221b7efd5690a537c93cc0ef1
-docker.io/rancher/mirrored-k8s-dns-dnsmasq-nanny:1.15.0 sha256:e96501364b415f572739ce4f02806b0ec0780e7c1355562b64ed2faa572ffe2d
-docker.io/rancher/mirrored-k8s-dns-dnsmasq-nanny:1.15.10 sha256:232696fef21558d21e66b9a466eedc6acfd53fac0dbdd4eeac0a28576843058a
-docker.io/rancher/mirrored-k8s-dns-dnsmasq-nanny:1.15.2 sha256:6a7f066955ddf7766dafc8b8ffad3f27cdd1e27b6c5c661526fa33dae4099243
-docker.io/rancher/mirrored-k8s-dns-kube-dns:1.15.0 sha256:8e6aded4a1ac6735de27d9122b37c3c764397c7fe9298011ed70101d6c38c89c
-docker.io/rancher/mirrored-k8s-dns-kube-dns:1.15.10 sha256:483e08b9eefc433ee58f96b8e65fb8f7594c7f788b865ddcfbc3f58449699133
-docker.io/rancher/mirrored-k8s-dns-kube-dns:1.15.2 sha256:6f7e49cc48762e6dcbeb28a0e7be34cdc397c31dce60fcc577bc52839b145b33
-docker.io/rancher/mirrored-k8s-dns-node-cache:1.15.13 sha256:3be001148c5f510c533aeea121c6bba1123dd1640d670090ad93cc42d0dafbef
-docker.io/rancher/mirrored-k8s-dns-node-cache:1.15.7 sha256:4aee723ddf45e4a789535a5866a81c6e1f9a3e71f8362caf0db65c2451fa83f1
-docker.io/rancher/mirrored-k8s-dns-sidecar:1.15.0 sha256:6f4a48f683ded0ac0728f60932d5269bb10e19f64ce348b2645c513b971577bc
-docker.io/rancher/mirrored-k8s-dns-sidecar:1.15.10 sha256:ce9a9d196aee939ea68a3e35fb675efa64c5888d211302a3395ec798ef0de2a2
-docker.io/rancher/mirrored-k8s-dns-sidecar:1.15.2 sha256:301388ff9c585f297a264832b15f6606de37ab4f3ed9751fad3c2b91721385f5
-docker.io/rancher/mirrored-k8scsi-csi-node-driver-registrar:v2.1.0 
-docker.io/rancher/mirrored-k8scsi-csi-resizer:v1.1.0 
-docker.io/rancher/mirrored-k8scsi-livenessprobe:v2.2.0 
-docker.io/rancher/mirrored-kiali-kiali:v1.41.0 sha256:0ba90d637043076c81b0266f06a1e16ae6a6914091b9bbacf771c02f500cb211
-docker.io/rancher/mirrored-kiwigrid-k8s-sidecar:1.12.2 sha256:ca760f94b35eb78575b170e41d1e19e27359b29245dacfd1c42ae90452ecc08e
-docker.io/rancher/mirrored-kube-rbac-proxy:v0.5.0 
-docker.io/rancher/mirrored-kube-state-metrics-kube-state-metrics:v2.0.0 sha256:80d1c2b777a330b8406f99803c37717158859b700fba520817a55a1e10c72f39
-docker.io/rancher/mirrored-library-busybox:1.31.1 sha256:3df757aca114512b86fa87dcecf57c4c3fdbe2957e7e1cede6b4d7bfa36ebedb
-docker.io/rancher/mirrored-library-nginx:1.19.9-alpine sha256:27d755e33e8a87b5e43f264d275e75a19d25da4145d994b65b8a26a5bc092553
-docker.io/rancher/mirrored-library-nginx:1.21.1-alpine sha256:bd9567591ae60368d1a8458cf4c5f4cf612cc85472d0ee1caa39a8e95471b66a
-docker.io/rancher/mirrored-longhornio-backing-image-manager:v2_20210820 sha256:b0aef2d1e3cb6552449d4d1774128eca6700a0b28ee1d05909b6db9ee77bf580
-docker.io/rancher/mirrored-longhornio-csi-attacher:v3.2.1 sha256:41a36fd87120e043c529bad40a830a47b9fcffd1811537fd4a33d188b8b46578
-docker.io/rancher/mirrored-longhornio-csi-node-driver-registrar:v2.3.0 sha256:10fe9cd400fd409f43e89f3287446db7b946f5a30b9ceafcd2ef1936b8208a2f
-docker.io/rancher/mirrored-longhornio-csi-provisioner:v2.1.2 sha256:daa7828fd45897fdeec17d6e987bc54cdc0a0928a7ba6b62d8f8496d6aa5d3be
-docker.io/rancher/mirrored-longhornio-csi-resizer:v1.2.0 sha256:76c3623cb51b8bc0de7588812e0f684221d3db3ffd739564e92a1cb68892ac70
-docker.io/rancher/mirrored-longhornio-csi-snapshotter:v3.0.3 sha256:fb4b91b90e4017895ed07cf755a8330256dac92bd52c64dc05c45c4f0b740506
-docker.io/rancher/mirrored-longhornio-longhorn-engine:v1.2.3 sha256:955ad4c35433e3e5b63fa2f4b2552d4ea4ff7bcac4b1a3b69b3e782a28bed7bf
-docker.io/rancher/mirrored-longhornio-longhorn-instance-manager:v1_20211210 sha256:1017e49200410cddb8d66dd33f5e8fa80e3b1cc91d4894836d38c14d915d8567
-docker.io/rancher/mirrored-longhornio-longhorn-manager:v1.2.3 sha256:3e0ff4bd783ec0dba8be2e43eea6423e7c564070162b0daed7e90022cb5a9afa
-docker.io/rancher/mirrored-longhornio-longhorn-share-manager:v1_20211020 sha256:2d7fc12d8994f6ab48270ccad0203ad38d37a7031f0ea5ccef9161392941b6e3
-docker.io/rancher/mirrored-longhornio-longhorn-ui:v1.2.3 sha256:bb10ad4a4f91468ec20e04381fd8a6eb657cd3406ea4c2d9c3e4254c39c93cbd
-docker.io/rancher/mirrored-messagebird-sachet:0.2.3 
-docker.io/rancher/mirrored-messagebird-sachet:0.2.6 
-docker.io/rancher/mirrored-metrics-server:v0.3.6 sha256:213c3d6a6917cdd95becdf4c0348f255d085d1fd01f0a333a8a369f57b0b300e
-docker.io/rancher/mirrored-metrics-server:v0.5.0 sha256:37e86275eb9821e933925640bc05fd1403eee34f214f5ed5716a44f26502e510
-docker.io/rancher/mirrored-minio-minio:RELEASE.2020-07-13T18-09-56Z 
-docker.io/rancher/mirrored-nginx-ingress-controller-defaultbackend:1.5-rancher1 sha256:4fc7e39c4260860af3a22583de1cd47b3bded6ce59330ba1c88609e147c04cef
-docker.io/rancher/mirrored-openpolicyagent-gatekeeper:v3.3.0 sha256:ce161b974dd71e6e1d198612e47abf5643927dd51306ca7d52b89c320b729e70
-docker.io/rancher/mirrored-pause:3.1 sha256:82f4f58a1877a3a819de055a111b33fc63127b896b928b0bd7419da549f88d65
-docker.io/rancher/mirrored-pause:3.2 sha256:f84a45cec95e61762e380ba4241b359a440682d3b4b87e13b322521883f1be87
-docker.io/rancher/mirrored-pause:3.6 sha256:74c4244427b7312c5b901fe0f67cbc53683d06f4f24c6faee65d4182bf0fa893
-docker.io/rancher/mirrored-plugins-docker:18.09 sha256:2d4e88c589b735d77cff592fa7b3100569cc1c34ea95dc728dae6c8abe76dd0e
-docker.io/rancher/mirrored-prometheus-alertmanager:v0.22.2 sha256:facd3d7b16eae6216fe434fb25661b703665b721398804badb60f5b47481f1b2
-docker.io/rancher/mirrored-prometheus-node-exporter:v1.1.2 sha256:1f33074be4702f4d6f0d8a4d5171ddb2853cb6c1cdd43c60a671d7b19c1b29f0
-docker.io/rancher/mirrored-prometheus-operator-prometheus-config-reloader:v0.48.0 sha256:6a3439c18d6ac3ad745b0a7c1a4a526915df3073e680b9a4710ce38ce95147ed
-docker.io/rancher/mirrored-prometheus-operator-prometheus-operator:v0.48.0 sha256:4ced5afa2901c842799271cbd1a742f764a2f6054bc65e05b5c943e5575ef453
-docker.io/rancher/mirrored-prometheus-prometheus:v2.27.1 sha256:5e852a0e45b92d3a6ec955bfc4bb9fe86106432d4b981d035fdd6ea8abd95db2
-docker.io/rancher/mirrored-sig-storage-csi-attacher:v3.2.0 sha256:d422289b8d54c89e3aa6b8976369b5d4983f8403f79b2921f37985d9981f0415
-docker.io/rancher/mirrored-sig-storage-csi-provisioner:v2.2.0 sha256:277398cc246683120cc1516fea1c078b9a2a911c9049ba71e714c609abee041a
-docker.io/rancher/mirrored-sonobuoy-sonobuoy:v0.53.2 sha256:d2078ad74c6c57fc79771de9eb08a4cf4a9feb0c9ebc74d0c56b92248a29e2c1
-docker.io/rancher/nginx-ingress-controller:nginx-0.35.0-rancher2 sha256:aa1d8132020ce42023e9f3bb673d2cc4b4231db2736a40b3df93bb18e76985f7
-docker.io/rancher/nginx-ingress-controller:nginx-1.2.1-rancher1 sha256:97c5d92cf9a6313551ad916989f064dc70a75f0862427a412c22fa762fbd1560
-docker.io/rancher/opa-gatekeeper:v3.1.0-beta.7 sha256:c2829b0d739e00ee9ee4c6271452c10baff2d227c06cf1b2ae7078cf2e3c37f8
-docker.io/rancher/openzipkin-zipkin:2.14.2 sha256:a1287adbe13eaa37685c5872b55173e017a4d2096d8f25c6276c35e3ff927628
-docker.io/rancher/pause:3.1 sha256:d22591b61e9c2b52aecbf07106d5db313c4f178e404d660b32517b18fcbf0144
-docker.io/rancher/pipeline-jenkins-server:v0.1.4 sha256:99c23971b9c9f38c7748b45f0081793da0a4d317bb855b0cf0a182dbba569a20
-docker.io/rancher/pipeline-tools:v0.1.15 sha256:a09f6237c4f062289da5c64adef7d924a5499a1b5a6180416b9b76a313ca1390
-docker.io/rancher/prom-alertmanager:v0.21.0 sha256:df132d6778914b89ab429a19174c932597efd11bab36ba56e7f806de1c6eb4a3
-docker.io/rancher/prom-node-exporter:v1.0.1 sha256:ae4d849cc4b14c15dcd7dc47621b577ae14767444ed62add3fe0d9b3b9e032f8
-docker.io/rancher/prom-prometheus:v2.12.0 sha256:a36643ecff25461626eb259e11309dbbff400839a0a90e2dea19c34267abd0a3
-docker.io/rancher/prom-prometheus:v2.18.2 sha256:ce20396a4092e02844e7422d19de0ad153c643b3a3f0864f94dddcc305843b90
-docker.io/rancher/prometheus-auth:v0.2.1 sha256:b8d21dad8923689177c526ab0291d30e22180a754b0b3ca8eb67dd142063c87a
-docker.io/rancher/pstauffer-curl:v1.0.3 sha256:3e558d7455a675384c20d5c4efd2fdb73028c2a6ac04c443852592153e179473
-docker.io/rancher/pushprox-client:v0.1.0-rancher2-client sha256:a41cd716c41208909102acfcb4b97d3c556f42c0b35f9123738d39759f3c2aec
-docker.io/rancher/pushprox-proxy:v0.1.0-rancher2-proxy sha256:3126395b966c1e52bb64a02d6967f856d0a72263349178402364dcab0cafb289
-docker.io/rancher/rancher-agent:v2.5.17 sha256:64ab5192974c3aaf21443a1a39b340c9867f36ac8646cce4bd25b5e109dff264
-docker.io/rancher/rancher-operator:v0.1.5 sha256:5911bc9f448eed34db5d4d225567dffd1b897760f59ec1bf62d05595c1bc7c5e
-docker.io/rancher/rancher-runtime:v2.5.17 
-docker.io/rancher/rancher-webhook:v0.1.6 sha256:03d0a945f5bb291fb7fa4b543b8232e818e82826981a2726051a5e22b71c3f8c
-docker.io/rancher/rancher:v2.5.17 sha256:9ffb94a4d36a42f51458b7bc1fdbbf39ff464ca9c1d41aec70ed4ae547bdf2b4
-docker.io/rancher/rke-tools:v0.1.74 sha256:c14f66797496c563beb6f82a6d63a51ca98079c9219aca66365a9789594e9e3b
-docker.io/rancher/rke-tools:v0.1.75 sha256:838f14a8c86032e2c50d82a7b3c5c2456c9b90a7a032bc9265149d8c81c86462
-docker.io/rancher/rke-tools:v0.1.78 sha256:74f3346a2ccb6d84a4d54ab6126c642c5fc065c6d409592aca40510333145059
-docker.io/rancher/rke-tools:v0.1.80 sha256:2260c64aea5bdd419942e0e118bb8d0a2c3f5c93d997db24d0d4e1e38493d9de
-docker.io/rancher/security-scan:v0.1.14 sha256:7d61f495c5f8e4d052272a5fee24ae406a218e6b789ed2cc62c6bff9b57acee5
-docker.io/rancher/security-scan:v0.2.6 sha256:bd7f48b4ab370d8e29b7df982ff96c2ca6b93792143f5e761e6b894df3d7d941
-docker.io/rancher/shell:v0.1.13 sha256:277182424d502cff91128c6a0f6dd7b70a6e2ac8ef4347c7cf4e52bbea1c8050
-docker.io/rancher/shell:v0.1.8 sha256:0659fa12503783b60094c65f0195515697f06a1c81ff0a7fdf6b9e6138d70140
-docker.io/rancher/sonobuoy-sonobuoy:v0.16.3 sha256:d1c511532ac706b57af9d000866953ebc43729fa87bd088056e7f77b2a6d0633
-docker.io/rancher/system-upgrade-controller:v0.6.2 sha256:c0577d3c185457dac4779baf8a7e90a094c6c27be0124d1d9a155f031a7495c8
-docker.io/rancher/tekton-utils:v0.1.5 sha256:1040ec14a50740eb63ee3b1c23dd5185dce5d8197a9625638c34c6c65a105b22
-docker.io/rancher/thanosio-thanos:v0.15.0 
-docker.io/rancher/webhook-receiver:v0.2.4 sha256:0e3e1591da5bb6730a75a7d3d29139858d1a909dfe8040ea4a06ad160e62fd74
+busybox
+rancher/backup-restore-operator:v1.2.1
+rancher/cis-operator:v1.0.7
+rancher/configmap-reload:v0.3.0-rancher4
+rancher/coredns-coredns:1.6.2
+rancher/coredns-coredns:1.6.9
+rancher/coredns-coredns:1.8.3
+rancher/coreos-kube-state-metrics:v1.9.7
+rancher/coreos-prometheus-config-reloader:v0.39.0
+rancher/coreos-prometheus-operator:v0.39.0
+rancher/eks-operator:v1.0.10
+rancher/externalip-webhook:v0.1.6
+rancher/flannel-cni:v0.3.0-rancher6
+rancher/fleet-agent:v0.3.10-security1
+rancher/fleet:v0.3.10-security1
+rancher/fluentd:v0.1.30
+rancher/gitjob:v0.1.26-security1
+rancher/gke-operator:v1.1.1
+rancher/grafana-grafana:6.7.4
+rancher/grafana-grafana:7.1.5
+rancher/hyperkube:v1.17.17-rancher2
+rancher/hyperkube:v1.18.20-rancher1
+rancher/hyperkube:v1.19.16-rancher2
+rancher/hyperkube:v1.20.15-rancher2
+rancher/istio-1.5-migration:0.1.1
+rancher/istio-citadel:1.5.9
+rancher/istio-coredns-plugin:0.2-istio-1.1
+rancher/istio-galley:1.5.9
+rancher/istio-installer:1.11.7-rancher1
+rancher/istio-kubectl:1.4.6
+rancher/istio-kubectl:1.5.10
+rancher/istio-kubectl:1.5.9
+rancher/istio-mixer:1.5.9
+rancher/istio-node-agent-k8s:1.5.9
+rancher/istio-pilot:1.5.9
+rancher/istio-proxyv2:1.5.9
+rancher/istio-sidecar_injector:1.5.9
+rancher/jaegertracing-all-in-one:1.14
+rancher/jetstack-cert-manager-controller:v0.8.1
+rancher/jimmidyson-configmap-reload:v0.3.0
+rancher/k3s-upgrade:v1.17.17-k3s1
+rancher/k3s-upgrade:v1.18.20-k3s1
+rancher/k3s-upgrade:v1.19.16-k3s1
+rancher/k3s-upgrade:v1.20.15-k3s1
+rancher/kiali-kiali:v1.17
+rancher/klipper-helm:v0.2.3
+rancher/klipper-helm:v0.4.3
+rancher/klipper-helm:v0.6.6-build20211022
+rancher/klipper-lb:v0.1.2
+rancher/klipper-lb:v0.2.0
+rancher/kube-api-auth:v0.1.4
+rancher/kubectl:v1.18.0
+rancher/kubectl:v1.20.2
+rancher/kubectl:v1.21.5
+rancher/kubernetes-external-dns:v0.7.3
+rancher/library-busybox:1.32.1
+rancher/library-traefik:1.7.19
+rancher/local-path-provisioner:v0.0.11
+rancher/local-path-provisioner:v0.0.14
+rancher/local-path-provisioner:v0.0.19
+rancher/log-aggregator:v0.1.8
+rancher/metrics-server:v0.3.6
+rancher/mirrored-banzaicloud-fluentd:v1.14.6-alpine-5
+rancher/mirrored-banzaicloud-logging-operator:3.17.7
+rancher/mirrored-calico-cni:v3.13.4
+rancher/mirrored-calico-cni:v3.16.5
+rancher/mirrored-calico-cni:v3.17.2
+rancher/mirrored-calico-ctl:v3.13.4
+rancher/mirrored-calico-ctl:v3.16.5
+rancher/mirrored-calico-ctl:v3.17.2
+rancher/mirrored-calico-kube-controllers:v3.13.4
+rancher/mirrored-calico-kube-controllers:v3.16.5
+rancher/mirrored-calico-kube-controllers:v3.17.2
+rancher/mirrored-calico-node:v3.13.4
+rancher/mirrored-calico-node:v3.16.5
+rancher/mirrored-calico-node:v3.17.2
+rancher/mirrored-calico-pod2daemon-flexvol:v3.13.4
+rancher/mirrored-calico-pod2daemon-flexvol:v3.16.5
+rancher/mirrored-calico-pod2daemon-flexvol:v3.17.2
+rancher/mirrored-cloud-provider-vsphere-cpi-release-manager:v1.18.0
+rancher/mirrored-cloud-provider-vsphere-cpi-release-manager:v1.19.0
+rancher/mirrored-cloud-provider-vsphere-cpi-release-manager:v1.20.0
+rancher/mirrored-cloud-provider-vsphere-cpi-release-manager:v1.21.0
+rancher/mirrored-cloud-provider-vsphere-csi-release-driver:v2.3.0
+rancher/mirrored-cloud-provider-vsphere-csi-release-syncer:v2.3.0
+rancher/mirrored-cluster-proportional-autoscaler:1.7.1
+rancher/mirrored-cluster-proportional-autoscaler:1.8.1
+rancher/mirrored-coredns-coredns:1.6.5
+rancher/mirrored-coredns-coredns:1.6.9
+rancher/mirrored-coredns-coredns:1.7.0
+rancher/mirrored-coredns-coredns:1.8.0
+rancher/mirrored-coreos-etcd:v3.4.15-rancher1
+rancher/mirrored-coreos-etcd:v3.4.3-rancher1
+rancher/mirrored-coreos-flannel:v0.15.1
+rancher/mirrored-curlimages-curl:7.77.0
+rancher/mirrored-directxman12-k8s-prometheus-adapter:v0.8.4
+rancher/mirrored-fluent-fluent-bit:1.9.3
+rancher/mirrored-fluent-fluent-bit:1.9.3-debug
+rancher/mirrored-grafana-grafana-image-renderer:3.0.1
+rancher/mirrored-grafana-grafana:7.5.8
+rancher/mirrored-idealista-prom2teams:3.2.1
+rancher/mirrored-idealista-prom2teams:3.2.3
+rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.1.1
+rancher/mirrored-istio-install-cni:1.11.7
+rancher/mirrored-istio-pilot:1.11.7
+rancher/mirrored-istio-proxyv2:1.11.7
+rancher/mirrored-jaegertracing-all-in-one:1.31.0
+rancher/mirrored-jenkins-jnlp-slave:3.35-4
+rancher/mirrored-jettech-kube-webhook-certgen:v1.5.2
+rancher/mirrored-jimmidyson-configmap-reload:v0.4.0
+rancher/mirrored-k8s-dns-dnsmasq-nanny:1.15.0
+rancher/mirrored-k8s-dns-dnsmasq-nanny:1.15.10
+rancher/mirrored-k8s-dns-dnsmasq-nanny:1.15.2
+rancher/mirrored-k8s-dns-kube-dns:1.15.0
+rancher/mirrored-k8s-dns-kube-dns:1.15.10
+rancher/mirrored-k8s-dns-kube-dns:1.15.2
+rancher/mirrored-k8s-dns-node-cache:1.15.13
+rancher/mirrored-k8s-dns-node-cache:1.15.7
+rancher/mirrored-k8s-dns-sidecar:1.15.0
+rancher/mirrored-k8s-dns-sidecar:1.15.10
+rancher/mirrored-k8s-dns-sidecar:1.15.2
+rancher/mirrored-k8scsi-csi-node-driver-registrar:v2.1.0
+rancher/mirrored-k8scsi-csi-resizer:v1.1.0
+rancher/mirrored-k8scsi-livenessprobe:v2.2.0
+rancher/mirrored-kiali-kiali:v1.41.0
+rancher/mirrored-kiwigrid-k8s-sidecar:1.12.2
+rancher/mirrored-kube-rbac-proxy:v0.5.0
+rancher/mirrored-kube-state-metrics-kube-state-metrics:v2.0.0
+rancher/mirrored-library-busybox:1.31.1
+rancher/mirrored-library-nginx:1.19.9-alpine
+rancher/mirrored-library-nginx:1.21.1-alpine
+rancher/mirrored-longhornio-backing-image-manager:v2_20210820
+rancher/mirrored-longhornio-csi-attacher:v3.2.1
+rancher/mirrored-longhornio-csi-node-driver-registrar:v2.3.0
+rancher/mirrored-longhornio-csi-provisioner:v2.1.2
+rancher/mirrored-longhornio-csi-resizer:v1.2.0
+rancher/mirrored-longhornio-csi-snapshotter:v3.0.3
+rancher/mirrored-longhornio-longhorn-engine:v1.2.3
+rancher/mirrored-longhornio-longhorn-instance-manager:v1_20211210
+rancher/mirrored-longhornio-longhorn-manager:v1.2.3
+rancher/mirrored-longhornio-longhorn-share-manager:v1_20211020
+rancher/mirrored-longhornio-longhorn-ui:v1.2.3
+rancher/mirrored-messagebird-sachet:0.2.3
+rancher/mirrored-messagebird-sachet:0.2.6
+rancher/mirrored-metrics-server:v0.3.6
+rancher/mirrored-metrics-server:v0.5.0
+rancher/mirrored-minio-minio:RELEASE.2020-07-13T18-09-56Z
+rancher/mirrored-nginx-ingress-controller-defaultbackend:1.5-rancher1
+rancher/mirrored-openpolicyagent-gatekeeper:v3.3.0
+rancher/mirrored-pause:3.1
+rancher/mirrored-pause:3.2
+rancher/mirrored-pause:3.6
+rancher/mirrored-plugins-docker:18.09
+rancher/mirrored-prometheus-alertmanager:v0.22.2
+rancher/mirrored-prometheus-node-exporter:v1.1.2
+rancher/mirrored-prometheus-operator-prometheus-config-reloader:v0.48.0
+rancher/mirrored-prometheus-operator-prometheus-operator:v0.48.0
+rancher/mirrored-prometheus-prometheus:v2.27.1
+rancher/mirrored-sig-storage-csi-attacher:v3.2.0
+rancher/mirrored-sig-storage-csi-provisioner:v2.2.0
+rancher/mirrored-sonobuoy-sonobuoy:v0.53.2
+rancher/nginx-ingress-controller:nginx-0.35.0-rancher2
+rancher/nginx-ingress-controller:nginx-1.2.1-rancher1
+rancher/opa-gatekeeper:v3.1.0-beta.7
+rancher/openzipkin-zipkin:2.14.2
+rancher/pause:3.1
+rancher/pipeline-jenkins-server:v0.1.4
+rancher/pipeline-tools:v0.1.15
+rancher/prom-alertmanager:v0.21.0
+rancher/prom-node-exporter:v1.0.1
+rancher/prom-prometheus:v2.12.0
+rancher/prom-prometheus:v2.18.2
+rancher/prometheus-auth:v0.2.1
+rancher/pstauffer-curl:v1.0.3
+rancher/pushprox-client:v0.1.0-rancher2-client
+rancher/pushprox-proxy:v0.1.0-rancher2-proxy
+rancher/rancher-agent:v2.5.17
+rancher/rancher-operator:v0.1.5
+rancher/rancher-runtime:v2.5.17
+rancher/rancher-webhook:v0.1.6
+rancher/rancher:v2.5.17
+rancher/rke-tools:v0.1.74
+rancher/rke-tools:v0.1.75
+rancher/rke-tools:v0.1.78
+rancher/rke-tools:v0.1.80
+rancher/security-scan:v0.1.14
+rancher/security-scan:v0.2.6
+rancher/shell:v0.1.13
+rancher/shell:v0.1.8
+rancher/sonobuoy-sonobuoy:v0.16.3
+rancher/system-upgrade-controller:v0.6.2
+rancher/tekton-utils:v0.1.5
+rancher/thanosio-thanos:v0.15.0
+rancher/webhook-receiver:v0.2.4
+registry:2
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
